@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+:root {
+  --app-btn-scale: 1.05;
+  --app-btn-radius: 1rem;
+}
+
+body.app-high-contrast {
+  filter: contrast(1.15);
+}
+
+body.app-high-contrast button {
+  letter-spacing: 0.025em;
+  font-weight: 800;
+}

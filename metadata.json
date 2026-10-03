@@ -1,0 +1,8 @@
+{
+  "name": "Remix FreshKeep Pantry Manager",
+  "description": "Track expiration dates, receive spoilage alerts, receive personalized nutrition tracking, and get healthy recipe recommendations based on your inventory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
